@@ -6,7 +6,7 @@
 
     docker build -t java-app .
     
-##### push image to repo 
+##### push image to repo rrr
 
     docker tag java-app demo-app:java-1.0
     
